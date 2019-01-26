@@ -6,7 +6,7 @@ class Journal extends Component {
         return(
             <div>
                 <p>journal</p>
-                <p>hmm. let's see where this goes. &lsqb;01-26-2018&rsqb;</p>
+                <p>hmm. let's see where this goes. 01-26-2018</p>
             </div> 
         )
     }
