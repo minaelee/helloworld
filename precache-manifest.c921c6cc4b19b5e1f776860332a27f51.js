@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/helloworld/static/js/runtime~main.607eba3d.js"
   },
   {
-    "revision": "21effd79bc9913514097",
-    "url": "/helloworld/static/js/main.21effd79.chunk.js"
+    "revision": "0697a64c87305b65d949",
+    "url": "/helloworld/static/js/main.0697a64c.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
     "url": "/helloworld/static/js/1.f739feb7.chunk.js"
   },
   {
-    "revision": "21effd79bc9913514097",
+    "revision": "0697a64c87305b65d949",
     "url": "/helloworld/static/css/main.2076e80e.chunk.css"
   },
   {
-    "revision": "49bef4fc5b3420c5e9c0ae8ff5446618",
+    "revision": "388219264419f191f720a9619541e116",
     "url": "/helloworld/index.html"
   }
 ];
