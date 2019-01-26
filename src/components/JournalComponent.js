@@ -4,7 +4,11 @@ class Journal extends Component {
 
     render() {
         return(
-            <div>Hello World</div>
+            <div>
+                <p>journal</p>
+                <p>let's see where this goes</p>
+            </div>
+            
         )
     }
 }
