@@ -8,3 +8,5 @@ class Entry extends Component {
         }
     }
 }
+
+export default JournalComponent;

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import JournalComponent from './components';
 import './App.css';
 
 class App extends Component {
