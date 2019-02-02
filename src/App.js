@@ -9,11 +9,7 @@ class App extends Component {
             <p>
               hello hi hey
             </p>
-            <p>
-              <Journal />
-            </p>
         </div>
- 
     );
   }
 }
